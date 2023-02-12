@@ -9,4 +9,10 @@
 <h4 align="center">New Growtopia multibot download from <a href="https://www.plutonium.ninja" target="_blank">here</a>.</h4>
 
 <hr>
-  <a href="https://www.plutonium.ninja"><img src="https://cdn.discordapp.com/attachments/1073333771111235644/1074253789655220224/image.png" alt="pluto"></a>
+
+<h1 align="center">
+  <br>
+ <a href="https://www.plutonium.ninja"><img src="https://cdn.discordapp.com/attachments/1073333771111235644/1074253789655220224/image.png" alt="pluto"></a>
+  <br>
+</h1>
+
